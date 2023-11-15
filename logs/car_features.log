@@ -1,0 +1,1099 @@
+03.11.2021 20:14:22 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+)
+08.11.2021 15:29:15 - array (
+  0 => 'A/C: Front',
+  1 => 'ABS',
+  2 => 'Airbag: Driver',
+  3 => 'Airbag: Passenger',
+  4 => 'Alloy wheels',
+  5 => 'AM/FM Stereo',
+  6 => 'Antilock Brakes',
+  7 => 'Auxiliary heating',
+  8 => 'Backup Camera',
+  9 => 'Bluetooth',
+  10 => 'Dis-Tronic',
+  11 => 'DVD System',
+  12 => 'Heated Seats',
+  13 => 'Leather',
+)
+09.11.2021 07:33:21 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Alloy wheels',
+  4 => 'AM/FM Stereo',
+  5 => 'Antilock Brakes',
+  6 => 'Backup Camera',
+  7 => 'Bluetooth',
+  8 => 'DVD System',
+  9 => 'EPS',
+  10 => 'Windows Defroster',
+  11 => 'Turbo-engine',
+)
+24.11.2021 17:28:37 - array (
+  0 => 'Parking sensors',
+  1 => 'Power Locks',
+)
+30.11.2021 09:41:49 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+  4 => 'Alloy wheels',
+  5 => 'Airbag: Passenger',
+  6 => 'Antilock Brakes',
+  7 => 'Autopilot',
+  8 => 'Bluetooth',
+  9 => 'Bucket Seats',
+  10 => 'CD player',
+  11 => 'Dis-Tronic',
+)
+30.11.2021 09:46:47 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+)
+07.12.2021 17:27:44 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+  4 => 'Airbag: Passenger',
+  5 => 'Alloy wheels',
+  6 => 'AM/FM Stereo',
+  7 => 'Antilock Brakes',
+  8 => 'Autopilot',
+  9 => 'Auxiliary heating',
+  10 => 'Backup Camera',
+  11 => 'Bluetooth',
+  12 => 'Bucket Seats',
+  13 => 'Central locking',
+  14 => 'CD player',
+  15 => 'Cruise Control',
+  16 => 'Dis-Tronic',
+  17 => 'DVD System',
+  18 => 'Electric side mirror',
+  19 => 'EPS',
+  20 => 'ESP',
+  21 => 'Fog Lights',
+  22 => 'Hands-Free',
+  23 => 'Head-up display',
+  24 => 'Heated Seats',
+  25 => 'Leather',
+  26 => 'Memory Seats',
+  27 => 'MP3 interface',
+  28 => 'MP3 Player',
+  29 => 'Navigation',
+  30 => 'Navigation system',
+  31 => 'Nitro',
+  32 => 'Panoramic roof',
+  33 => 'Parking sensors',
+  34 => 'Power Locks',
+  35 => 'Power Seats',
+  36 => 'Power Steering',
+)
+20.12.2021 12:48:05 - array (
+  0 => 'Airbag: Driver',
+  1 => 'Airbag: Passenger',
+  2 => 'Autopilot',
+  3 => 'Antilock Brakes',
+  4 => 'Backup Camera',
+  5 => 'Auxiliary heating',
+  6 => 'Bluetooth',
+  7 => 'Bucket Seats',
+  8 => 'CD player',
+  9 => 'ABS',
+  10 => 'A/C: Rear',
+  11 => 'A/C: Front',
+  12 => 'Hands-Free',
+  13 => 'Head-up display',
+  14 => 'Heated Seats',
+  15 => 'Power Steering',
+  16 => 'Power Windows',
+  17 => 'Premium Audio',
+  18 => 'Security System',
+  19 => 'Windows Defroster',
+  20 => 'Urban kit',
+  21 => 'Turbo-engine',
+  22 => 'Trailer Hitch',
+)
+21.12.2021 07:56:24 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'AM/FM Stereo',
+  4 => 'Alloy wheels',
+  5 => 'Airbag: Passenger',
+  6 => 'Cruise Control',
+  7 => 'MP3 interface',
+  8 => 'MP3 Player',
+  9 => 'Sport Body Kit',
+  10 => 'Sports package',
+  11 => 'Windows Defroster',
+)
+21.12.2021 20:16:25 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+  4 => 'Airbag: Passenger',
+  5 => 'Alloy wheels',
+  6 => 'AM/FM Stereo',
+  7 => 'Antilock Brakes',
+  8 => 'Autopilot',
+  9 => 'Auxiliary heating',
+  10 => 'Backup Camera',
+  11 => 'Bluetooth',
+  12 => 'Bucket Seats',
+  13 => 'CD player',
+  14 => 'Central locking',
+  15 => 'Cruise Control',
+  16 => 'Dis-Tronic',
+  17 => 'Electric side mirror',
+  18 => 'EPS',
+  19 => 'ESP',
+  20 => 'Fog Lights',
+  21 => 'Head-up display',
+  22 => 'Heated Seats',
+  23 => 'Memory Seats',
+  24 => 'MP3 interface',
+  25 => 'MP3 Player',
+  26 => 'Navigation',
+  27 => 'Navigation system',
+  28 => 'Panoramic roof',
+  29 => 'Parking sensors',
+  30 => 'Power Locks',
+  31 => 'Power Steering',
+  32 => 'Power Seats',
+  33 => 'Power Windows',
+  34 => 'Premium Audio',
+  35 => 'Rear Window',
+  36 => 'Security System',
+  37 => 'Sports package',
+  38 => 'Windows Defroster',
+)
+30.12.2021 02:48:56 - array (
+  0 => 'A/C: Rear',
+  1 => 'CD player',
+  2 => 'Central locking',
+  3 => 'Cruise Control',
+  4 => 'Dis-Tronic',
+  5 => 'DVD System',
+  6 => 'ESP',
+  7 => 'Heated Seats',
+  8 => 'Software autoupdate',
+)
+15.01.2022 11:31:10 - array (
+  0 => 'A/C: Rear',
+  1 => 'ABS',
+  2 => 'A/C: Front',
+  3 => 'Airbag: Passenger',
+  4 => 'Alloy wheels',
+  5 => 'Airbag: Driver',
+  6 => 'AM/FM Stereo',
+  7 => 'Antilock Brakes',
+  8 => 'Autopilot',
+  9 => 'Auxiliary heating',
+  10 => 'Backup Camera',
+  11 => 'Bluetooth',
+  12 => 'DVD System',
+  13 => 'Cruise Control',
+  14 => 'Dis-Tronic',
+  15 => 'Central locking',
+  16 => 'CD player',
+  17 => 'Bucket Seats',
+  18 => 'Electric side mirror',
+  19 => 'EPS',
+  20 => 'ESP',
+  21 => 'Fog Lights',
+  22 => 'Hands-Free',
+  23 => 'Head-up display',
+  24 => 'Heated Seats',
+  25 => 'Leather',
+  26 => 'Memory Seats',
+  27 => 'MP3 interface',
+  28 => 'MP3 Player',
+  29 => 'Navigation',
+  30 => 'Navigation system',
+)
+18.01.2022 18:16:43 - array (
+  0 => 'Windows Defroster',
+  1 => 'Urban kit',
+  2 => 'Turbo-engine',
+  3 => 'Tow Package',
+)
+20.01.2022 22:53:45 - array (
+  0 => 'A/C: Front',
+  1 => 'Autopilot',
+  2 => 'Auxiliary heating',
+  3 => 'Backup Camera',
+  4 => 'Antilock Brakes',
+  5 => 'AM/FM Stereo',
+  6 => 'Airbag: Passenger',
+  7 => 'Alloy wheels',
+)
+29.01.2022 10:36:27 - array (
+  0 => 'A/C: Front',
+  1 => 'Airbag: Driver',
+  2 => 'Alloy wheels',
+  3 => 'AM/FM Stereo',
+  4 => 'ABS',
+  5 => 'A/C: Rear',
+  6 => 'Power Seats',
+  7 => 'Dis-Tronic',
+)
+03.02.2022 16:05:14 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'Antilock Brakes',
+  3 => 'AM/FM Stereo',
+  4 => 'Autopilot',
+  5 => 'Alloy wheels',
+  6 => 'CD player',
+  7 => 'Bucket Seats',
+  8 => 'Fog Lights',
+  9 => 'ESP',
+  10 => 'EPS',
+  11 => 'Electric side mirror',
+  12 => 'Memory Seats',
+  13 => 'MP3 interface',
+  14 => 'MP3 Player',
+  15 => 'Sunroof',
+  16 => 'Sports suspension',
+  17 => 'Sport Body Kit',
+)
+06.02.2022 08:31:55 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+  4 => 'Airbag: Passenger',
+  5 => 'Alloy wheels',
+  6 => 'AM/FM Stereo',
+  7 => 'Antilock Brakes',
+  8 => 'Autopilot',
+  9 => 'Auxiliary heating',
+  10 => 'EPS',
+  11 => 'ESP',
+  12 => 'Fog Lights',
+)
+06.02.2022 14:47:21 - array (
+  0 => 'ABS',
+  1 => 'AM/FM Stereo',
+  2 => 'Backup Camera',
+  3 => 'Central locking',
+  4 => 'EPS',
+  5 => 'Power Locks',
+  6 => 'Premium Audio',
+)
+18.02.2022 16:59:21 - array (
+  0 => 'CD player',
+  1 => 'DVD System',
+  2 => 'EPS',
+)
+22.02.2022 06:31:26 - array (
+  0 => 'Windows Defroster',
+  1 => 'Urban kit',
+  2 => 'Turbo-engine',
+  3 => 'Trailer Hitch',
+  4 => 'Tow Package',
+  5 => 'Sunroof',
+  6 => 'A/C: Front',
+  7 => 'A/C: Rear',
+  8 => 'ABS',
+  9 => 'Airbag: Driver',
+)
+25.02.2022 13:43:28 - array (
+  0 => 'A/C: Front',
+  1 => 'ABS',
+  2 => 'Airbag: Passenger',
+  3 => 'Alloy wheels',
+  4 => 'AM/FM Stereo',
+  5 => 'Memory Seats',
+  6 => 'Heated Seats',
+  7 => 'Navigation',
+  8 => 'Windows Defroster',
+)
+27.02.2022 08:12:50 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+)
+07.03.2022 19:44:53 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+)
+10.03.2022 08:22:13 - array (
+  0 => 'A/C: Front',
+  1 => 'Airbag: Passenger',
+  2 => 'Antilock Brakes',
+  3 => 'Autopilot',
+  4 => 'CD player',
+  5 => 'Central locking',
+)
+11.03.2022 06:28:31 - array (
+  0 => 'ESP',
+  1 => 'EPS',
+)
+12.03.2022 15:23:51 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+  4 => 'Airbag: Passenger',
+  5 => 'Alloy wheels',
+  6 => 'AM/FM Stereo',
+  7 => 'Antilock Brakes',
+  8 => 'Autopilot',
+  9 => 'Auxiliary heating',
+  10 => 'Backup Camera',
+  11 => 'Bluetooth',
+  12 => 'Bucket Seats',
+  13 => 'CD player',
+  14 => 'Central locking',
+  15 => 'Cruise Control',
+  16 => 'Dis-Tronic',
+  17 => 'DVD System',
+  18 => 'Electric side mirror',
+  19 => 'Sunroof',
+  20 => 'Tow Package',
+  21 => 'Trailer Hitch',
+)
+12.03.2022 16:36:06 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+  4 => 'Airbag: Passenger',
+  5 => 'Alloy wheels',
+  6 => 'Autopilot',
+  7 => 'Antilock Brakes',
+  8 => 'AM/FM Stereo',
+  9 => 'Auxiliary heating',
+  10 => 'Bluetooth',
+  11 => 'Backup Camera',
+  12 => 'Electric side mirror',
+  13 => 'DVD System',
+  14 => 'Dis-Tronic',
+  15 => 'Cruise Control',
+  16 => 'Central locking',
+  17 => 'CD player',
+  18 => 'Bucket Seats',
+  19 => 'Head-up display',
+  20 => 'Hands-Free',
+  21 => 'Fog Lights',
+  22 => 'ESP',
+  23 => 'EPS',
+)
+19.03.2022 07:26:52 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+  4 => 'Airbag: Passenger',
+  5 => 'Alloy wheels',
+  6 => 'AM/FM Stereo',
+  7 => 'Antilock Brakes',
+  8 => 'Autopilot',
+  9 => 'Auxiliary heating',
+  10 => 'Backup Camera',
+  11 => 'Bluetooth',
+  12 => 'Bucket Seats',
+  13 => 'CD player',
+  14 => 'Central locking',
+  15 => 'Cruise Control',
+  16 => 'Dis-Tronic',
+  17 => 'DVD System',
+  18 => 'Electric side mirror',
+  19 => 'EPS',
+  20 => 'ESP',
+  21 => 'Fog Lights',
+  22 => 'Hands-Free',
+  23 => 'Head-up display',
+  24 => 'Leather',
+  25 => 'Heated Seats',
+  26 => 'Memory Seats',
+  27 => 'MP3 interface',
+  28 => 'MP3 Player',
+  29 => 'Navigation',
+  30 => 'Nitro',
+  31 => 'Navigation system',
+  32 => 'Panoramic roof',
+  33 => 'Parking sensors',
+  34 => 'Power Locks',
+  35 => 'Power Seats',
+  36 => 'Power Steering',
+  37 => 'Power Windows',
+  38 => 'Premium Audio',
+  39 => 'Rear Window',
+  40 => 'Security System',
+  41 => 'Software autoupdate',
+  42 => 'Sport Body Kit',
+  43 => 'Sports package',
+  44 => 'Sports suspension',
+  45 => 'Sunroof',
+  46 => 'Tow Package',
+  47 => 'Trailer Hitch',
+  48 => 'Turbo-engine',
+  49 => 'Urban kit',
+  50 => 'Windows Defroster',
+)
+27.03.2022 09:01:33 - array (
+  0 => 'Power Locks',
+  1 => 'Power Seats',
+  2 => 'Power Steering',
+  3 => 'Parking sensors',
+  4 => 'Panoramic roof',
+)
+27.03.2022 09:47:50 - array (
+  0 => 'Backup Camera',
+  1 => 'Cruise Control',
+  2 => 'Leather',
+  3 => 'Urban kit',
+  4 => 'Turbo-engine',
+)
+27.03.2022 13:46:38 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+)
+28.03.2022 21:38:00 - array (
+  0 => 'ABS',
+  1 => 'Airbag: Driver',
+  2 => 'Airbag: Passenger',
+  3 => 'Trailer Hitch',
+  4 => 'Turbo-engine',
+)
+01.04.2022 08:55:12 - array (
+  0 => 'A/C: Front',
+  1 => 'ABS',
+  2 => 'Airbag: Driver',
+  3 => 'Autopilot',
+  4 => 'Auxiliary heating',
+  5 => 'Trailer Hitch',
+)
+10.04.2022 13:25:37 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+  4 => 'AM/FM Stereo',
+  5 => 'CD player',
+  6 => 'Bucket Seats',
+  7 => 'Central locking',
+  8 => 'Dis-Tronic',
+  9 => 'DVD System',
+  10 => 'Cruise Control',
+  11 => 'Trailer Hitch',
+  12 => 'Tow Package',
+  13 => 'Sunroof',
+  14 => 'Sports suspension',
+  15 => 'Urban kit',
+  16 => 'Windows Defroster',
+)
+14.04.2022 07:17:29 - array (
+  0 => 'A/C: Front',
+  1 => 'ABS',
+  2 => 'Airbag: Driver',
+  3 => 'Airbag: Passenger',
+  4 => 'AM/FM Stereo',
+  5 => 'Backup Camera',
+  6 => 'Central locking',
+  7 => 'CD player',
+  8 => 'EPS',
+  9 => 'Fog Lights',
+  10 => 'Leather',
+  11 => 'MP3 interface',
+  12 => 'Parking sensors',
+  13 => 'Power Seats',
+  14 => 'Security System',
+  15 => 'Tow Package',
+  16 => 'Urban kit',
+  17 => 'Windows Defroster',
+)
+19.04.2022 08:39:31 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'Airbag: Passenger',
+  3 => 'AM/FM Stereo',
+  4 => 'Antilock Brakes',
+  5 => 'Bluetooth',
+  6 => 'Cruise Control',
+  7 => 'DVD System',
+)
+19.04.2022 23:12:16 - array (
+  0 => 'A/C: Front',
+  1 => 'Airbag: Driver',
+  2 => 'Airbag: Passenger',
+  3 => 'Fog Lights',
+)
+21.04.2022 08:05:42 - array (
+  0 => 'ESP',
+  1 => 'EPS',
+)
+24.04.2022 01:09:34 - array (
+  0 => 'Panoramic roof',
+  1 => 'Power Locks',
+  2 => 'Parking sensors',
+)
+26.04.2022 01:05:28 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Airbag: Driver',
+  4 => 'Airbag: Passenger',
+  5 => 'Alloy wheels',
+)
+08.05.2022 03:10:44 - array (
+  0 => 'A/C: Rear',
+  1 => 'ABS',
+)
+08.05.2022 16:32:08 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'Airbag: Driver',
+  3 => 'Airbag: Passenger',
+  4 => 'Alloy wheels',
+  5 => 'Antilock Brakes',
+  6 => 'Backup Camera',
+  7 => 'Auxiliary heating',
+  8 => 'Bucket Seats',
+)
+11.05.2022 07:36:55 - array (
+  0 => 'Airbag: Passenger',
+  1 => 'AM/FM Stereo',
+  2 => 'A/C: Rear',
+  3 => 'Airbag: Driver',
+)
+12.05.2022 19:18:56 - array (
+  0 => 'A/C: Rear',
+  1 => 'ABS',
+  2 => 'Airbag: Driver',
+  3 => 'Airbag: Passenger',
+  4 => 'Круиз-контроль',
+  5 => 'Колеса из легкого сплава',
+  6 => 'Гарантия',
+  7 => 'Центральный замок дверей',
+  8 => 'Парковочный контроль: Задние датчики',
+  9 => 'Камера заднего вида.Камера переднего вида',
+)
+15.05.2022 18:06:14 - array (
+  0 => 'A/C: Rear',
+  1 => 'A/C: Front',
+  2 => 'ABS',
+)
+20.10.2022 11:09:03 - array (
+  0 => 'A/C: Rear',
+  1 => 'A/C: Front',
+  2 => 'Alloy wheels',
+  3 => 'ABS',
+  4 => 'Autopilot',
+  5 => 'Auxiliary heating',
+)
+20.10.2022 12:28:52 - array (
+  0 => '{\\"a-c-front\\": \\"A/C: Front\\", \\"a-c-rear\\": \\"A/C: Rear\\", \\"abs\\": \\"ABS\\", \\"alloy-wheels\\": \\"Alloy wheels\\", \\"autopilot\\": \\"Autopilot\\", \\"auxiliary-heating\\": \\"Auxiliary heating\\"}',
+)
+20.10.2022 12:29:58 - array (
+  0 => '\\"A/C: Front\\", \\"A/C: Rear\\", \\"ABS\\", \\"Alloy wheels\\", \\"Autopilot\\", \\"Auxiliary heating\\"',
+)
+21.10.2022 05:29:38 - array (
+  0 => 'A/C: Rear',
+  1 => 'A/C: Front',
+  2 => 'ABS',
+)
+21.10.2022 06:26:20 - array (
+  0 => 'Alloy wheels',
+  1 => 'ABS',
+  2 => 'A/C: Rear',
+)
+21.10.2022 12:00:35 - array (
+  0 => 'a-c-front, a-c-rear, abs',
+)
+21.10.2022 13:12:10 - array (
+  0 => 'a-c-front, a-c-rear, abs, alloy-wheels, autopilot',
+)
+21.10.2022 13:19:00 - array (
+  0 => 'A/C: Front, A/C: Rear, Alloy wheels, ABS',
+)
+21.10.2022 21:53:59 - array (
+  0 => 'A/C: Front, A/C: Rear, Autopilot, Auxiliary heating, ESP, EPS, Head-up display',
+)
+21.10.2022 23:00:11 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Alloy wheels',
+)
+22.10.2022 00:07:35 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS',
+)
+23.10.2022 12:26:21 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS, Alloy wheels, Autopilot, Auxiliary heating, Bluetooth, CD player, Central locking, Dis-Tronic, Electric side mirror, EPS, ESP',
+)
+23.10.2022 15:56:32 - array (
+  0 => 'A/C: Front, A/C: Rear',
+)
+23.10.2022 16:00:18 - array (
+  0 => 'A/C: Front, A/C: Rear',
+)
+31.10.2022 11:49:29 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS',
+)
+01.11.2022 08:57:57 - array (
+  0 => 'A/C: Front, A/C: Rear, Auxiliary heating, CD player, Bluetooth, Central locking, Dis-Tronic, EPS, Electric side mirror, Head-up display, Leather',
+)
+01.11.2022 10:39:08 - array (
+  0 => 'A/C: Front, A/C: Rear',
+)
+01.11.2022 11:43:19 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS',
+)
+01.11.2022 12:49:39 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS',
+)
+01.11.2022 12:52:06 - array (
+  0 => 'A/C: Front, A/C: Rear',
+)
+01.11.2022 14:32:58 - array (
+  0 => 'A/C: Rear, ABS, A/C: Front, Alloy wheels, Autopilot, Auxiliary heating, Bluetooth, CD player, Central locking',
+)
+02.11.2022 10:40:10 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS, Autopilot, Alloy wheels',
+)
+02.11.2022 11:32:51 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS, Alloy wheels, Autopilot, Auxiliary heating, CD player, Bluetooth',
+)
+03.11.2022 13:15:40 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS, Alloy wheels',
+)
+04.11.2022 05:13:44 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS, Alloy wheels',
+)
+04.11.2022 05:37:58 - array (
+  0 => 'A/C: Front, ABS, Alloy wheels, Autopilot, Auxiliary heating, CD player, Bluetooth',
+)
+04.11.2022 05:46:27 - array (
+  0 => 'A/C: Front, A/C: Rear, Auxiliary heating, Bluetooth, CD player, Autopilot',
+)
+04.11.2022 06:01:39 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Alloy wheels',
+)
+04.11.2022 08:50:39 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS, Alloy wheels, Autopilot, ..., Dis-Tronic, EPS',
+)
+04.11.2022 08:54:16 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS',
+)
+04.11.2022 08:59:17 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Alloy wheels',
+  4 => 'Autopilot',
+  5 => 'Auxiliary heating',
+)
+04.11.2022 09:00:03 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS',
+  1 => 'A/C: Rear',
+)
+04.11.2022 09:13:59 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+  2 => 'ABS',
+  3 => 'Alloy wheels',
+  4 => 'Autopilot',
+  5 => 'Urban kit',
+)
+04.11.2022 09:35:58 - array (
+  0 => 'A/C: Front',
+  1 => 'A/C: Rear',
+)
+04.11.2022 11:58:57 - array (
+  0 => '{\\"a-c-front\\": \\"A/C: Front\\", \\"a-c-rear\\": \\"A/C: Rear\\", \\"abs\\": \\"ABS\\", \\"alloy-wheels\\": \\"Alloy wheels\\", \\"autopilot\\": \\"Autopilot\\", \\"urban-kit\\": \\"Urban kit\\"}',
+)
+04.11.2022 12:03:27 - array (
+  0 => '\\"A/C: Front\\",\\"A/C: Rear\\",\\"ABS\\", \\"Alloy wheels\\", \\"Autopilot\\", \\"Urban kit\\"',
+)
+04.11.2022 12:04:09 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS, Alloy wheels, Autopilot, Urban kit',
+)
+04.11.2022 12:04:58 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,Urban kit',
+)
+04.11.2022 12:54:34 - array (
+  0 => 'A/C: Front, A/C: Rear,ABS,Alloy wheels,Autopilot,Urban kit',
+)
+04.11.2022 12:55:02 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS, Alloy wheels, Autopilot, Urban kit',
+)
+04.11.2022 12:55:38 - array (
+  0 => 'A/C:Front,A/C:Rear,ABS,Alloy wheels,Autopilot,Urban kit',
+)
+04.11.2022 12:55:53 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,Urban kit',
+)
+05.11.2022 15:39:28 - array (
+  0 => 'A/C: Front, A/C: Rear, ABS, Alloy wheels, Autopilot',
+)
+06.11.2022 14:16:19 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot',
+)
+06.11.2022 20:24:03 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,Auxiliary heating,Bluetooth,CD player,Central locking',
+)
+06.11.2022 20:25:09 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,Auxiliary heating,Bluetooth,CD player,Central locking',
+)
+07.11.2022 04:25:47 - array (
+  0 => 'A/C: Front,A/C: Rear',
+)
+07.11.2022 04:39:21 - array (
+  0 => 'A/C: Front,A/C: Rear',
+)
+07.11.2022 04:57:51 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot',
+)
+07.11.2022 04:58:19 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,ABS,Alloy wheels,Autopilot',
+)
+07.11.2022 04:59:31 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,ABS,Alloy wheels,Autopilot,A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot',
+)
+07.11.2022 05:09:15 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels',
+)
+07.11.2022 05:09:44 - array (
+  0 => 'A/C: Front,A/C: Rear',
+)
+07.11.2022 05:31:58 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS',
+)
+07.11.2022 05:39:07 - array (
+  0 => 'A/C: Front,ABS,Alloy wheels,MP3 interface,Navigation system,Turbo-engine',
+)
+09.11.2022 10:08:25 - array (
+  0 => 'A/C: Front,A/C: Rear',
+)
+09.11.2022 10:10:15 - array (
+  0 => 'A/C: Front,A/C: Rear,CD player',
+)
+13.11.2022 17:48:23 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels',
+)
+13.11.2022 17:49:29 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels',
+)
+13.11.2022 17:50:49 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels',
+)
+14.11.2022 11:02:04 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS',
+)
+14.11.2022 11:02:57 - array (
+  0 => 'A/C: Front,A/C: Rear,Alloy wheels,Autopilot,Auxiliary heating,ABS',
+)
+14.11.2022 20:02:39 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,Auxiliary heating,Bluetooth,CD player,Central locking,Dis-Tronic,Electric side mirror,EPS,ESP,Head-up display,Leather',
+)
+14.11.2022 20:04:23 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,Auxiliary heating,Bluetooth,CD player,Central locking,Dis-Tronic,Electric side mirror,EPS,ESP,Head-up display,Leather',
+)
+16.11.2022 17:21:03 - array (
+  0 => 'A/C: Front,ABS,A/C: Rear',
+)
+16.11.2022 17:21:36 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS',
+)
+16.11.2022 17:22:12 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS',
+)
+16.11.2022 17:24:43 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS',
+)
+16.11.2022 17:26:48 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS',
+)
+16.11.2022 17:27:41 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS',
+)
+16.11.2022 17:28:11 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS',
+)
+21.11.2022 07:04:30 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,Auxiliary heating,Bluetooth,CD player,Central locking,Dis-Tronic,Electric side mirror,EPS,ESP,Head-up display,Leather',
+)
+21.11.2022 07:09:54 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,Autopilot,Auxiliary heating,Bluetooth,CD player,Central locking,Dis-Tronic,Electric side mirror,EPS,ESP,Head-up display,Leather',
+)
+21.11.2022 07:33:06 - array (
+  0 => 'A/C: Front,A/C: Rear,CD player',
+)
+27.08.2023 22:10:07 - array (
+  0 => 'ABS,Alloy wheels,Ambient Lighting,Bluetooth,Bucket Seats,Keyless Entry,Leather Interior,Panoramic roof,Parking sensors',
+)
+12.09.2023 20:50:19 - array (
+  0 => 'AM/FM Stereo,Alloy wheels,A/C: Rear,360 Camera,ABS,Ambient Lighting,Antilock Brakes,Blind Spot Monitor,Bluetooth,CD player,Cruise Control,DVD System,Electric Folding Mirrors,Electric side mirror,Fog Lights,Heads Up Display (HUD),Heated Seats,Keyless Entry,Lane Keeping Assist,Leather Seats,Massage Seats,Memory Seats,Navigation,Nitro,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Premium Audio,Rear Entertainment,Remote Start,Roof Rail,Running Light,SD Card Reader,Security System,Sunroof,Tow Package,Trailer Hitch,USB Port,Windows Defroster',
+)
+12.09.2023 21:06:38 - array (
+  0 => '360 Camera,A/C: Rear,Alloy wheels,AM/FM Stereo,Ambient Lighting,Android Car Play,Antilock Brakes,Autopilot,Backup Camera,Blind Spot Monitor,Bluetooth,CD player,DVD System,Electric Folding Mirrors,Electric side mirror,Heads Up Display (HUD),Heated Seats,Leather Seats,Memory Seats,Nitro,Navigation,Panoramic roof,Park Assist Pilot,Power Locks,Power Windows,Power Seats,Rear Entertainment,Premium Audio,Rear Window,Roof Rail,Running Light,SD Card Reader,Security System,Sunroof,Tow Package,Tow Hitch,USB Port',
+)
+12.09.2023 21:06:46 - array (
+  0 => '360 Camera,A/C: Rear,Alloy wheels,AM/FM Stereo,Ambient Lighting,Android Car Play,Antilock Brakes,Autopilot,Backup Camera,Blind Spot Monitor,Bluetooth,CD player,DVD System,Electric Folding Mirrors,Electric side mirror,Heads Up Display (HUD),Heated Seats,Leather Seats,Memory Seats,Nitro,Navigation,Panoramic roof,Park Assist Pilot,Power Locks,Power Windows,Power Seats,Rear Entertainment,Premium Audio,Rear Window,Roof Rail,Running Light,SD Card Reader,Security System,Sunroof,Tow Package,Tow Hitch,USB Port',
+)
+12.09.2023 21:06:52 - array (
+  0 => '360 Camera,A/C: Rear,Alloy wheels,AM/FM Stereo,Ambient Lighting,Android Car Play,Antilock Brakes,Autopilot,Backup Camera,Blind Spot Monitor,Bluetooth,CD player,DVD System,Electric Folding Mirrors,Electric side mirror,Heads Up Display (HUD),Heated Seats,Leather Seats,Memory Seats,Nitro,Navigation,Panoramic roof,Park Assist Pilot,Power Locks,Power Windows,Power Seats,Rear Entertainment,Premium Audio,Rear Window,Roof Rail,Running Light,SD Card Reader,Security System,Sunroof,Tow Package,Tow Hitch,USB Port',
+)
+12.09.2023 21:15:54 - array (
+  0 => 'A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Backup Camera,Bluetooth,Blind Spot Monitor,CD player,Cruise Control,DVD System,Heads Up Display (HUD),Nitro,Navigation',
+)
+12.09.2023 21:15:59 - array (
+  0 => 'A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Backup Camera,Bluetooth,Blind Spot Monitor,CD player,Cruise Control,DVD System,Heads Up Display (HUD),Nitro,Navigation',
+)
+12.09.2023 21:16:06 - array (
+  0 => 'A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Backup Camera,Bluetooth,Blind Spot Monitor,CD player,Cruise Control,DVD System,Heads Up Display (HUD),Nitro,Navigation',
+)
+12.09.2023 22:24:16 - array (
+  0 => '360 Camera,Windows Defroster,USB Port,Tow Hitch,Third Row Seats,Sunroof,Premium Audio,Power Windows,Power Seats,Power Locks,Parking sensors,Park Assist Pilot,Nitro,Navigation,Memory Seats,Massage Seats,Leather Seats,Heated Seats',
+)
+14.09.2023 08:54:12 - array (
+  0 => '360 Camera,ABS,AM/FM Stereo,Alloy wheels,Ambient Lighting,A/C: Rear,Android Car Play,Apple Car Play,Autopilot,Backup Camera,Blind Spot Monitor,Bluetooth,Bucket Seats,CD player',
+)
+14.09.2023 12:36:17 - array (
+  0 => '360 Camera,A/C: Rear,ABS,Alloy wheels',
+)
+15.09.2023 10:15:34 - array (
+  0 => '360 Camera,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo',
+)
+19.09.2023 09:30:59 - array (
+  0 => 'A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,CD player',
+)
+19.09.2023 09:43:48 - array (
+  0 => 'ABS,A/C: Rear,Alloy wheels,AM/FM Stereo,Backup Camera,CD player,Cruise Control,ESP,Electric side mirror,Leather Seats,USB Port,Reverse Camera',
+)
+25.09.2023 11:43:34 - array (
+  0 => 'A/C: Rear,ABS,Alloy wheels,Ambient Lighting,Bluetooth,Electric side mirror,Parking sensors',
+)
+25.09.2023 11:52:34 - array (
+  0 => 'A/C: Front',
+)
+02.10.2023 09:44:43 - array (
+  0 => 'Alloy wheels,AM/FM Stereo,Backup Camera,Bluetooth,CD player,Leather Seats',
+)
+02.10.2023 09:46:58 - array (
+  0 => 'Alloy wheels,AM/FM Stereo,Backup Camera,Bluetooth,CD player,Leather Seats',
+)
+02.10.2023 09:53:53 - array (
+  0 => 'Alloy wheels,AM/FM Stereo,Backup Camera,Bluetooth,CD player,Leather Seats,A/C: Rear,ABS',
+)
+03.10.2023 14:11:09 - array (
+  0 => 'Android Auto,ABS,Backup Camera,Leather Interior',
+)
+03.10.2023 14:27:01 - array (
+  0 => 'ABS,Android Auto,Leather Interior,AM/FM Stereo,CD player,Bluetooth,Fog Lights,Roof Rail,Reverse Camera',
+)
+06.10.2023 10:58:27 - array (
+  0 => '360 Camera,A/C: Front,ABS,Alloy wheels,Ambient Lighting,Bluetooth,Electric Folding Mirrors,Electric side mirror,Heads Up Display (HUD),Leather Interior,Parking sensors,Park Assist Pilot,Power Seats,Panoramic roof',
+)
+16.10.2023 10:41:10 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Blind Spot Monitor,Bluetooth,CD player,Cruise Control,Electric Folding Mirrors,Electric side mirror,Keyless Entry,Heated Seats,Fog Lights,Leather Seats,Massage Seats,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Power Windows,Premium Audio,Rear Entertainment,Remote Start,Reverse Camera,Roof Rail,USB Port,Tow Hitch,Third Row Seats',
+)
+16.10.2023 10:44:26 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Blind Spot Monitor,Bluetooth,CD player,Cruise Control,Electric Folding Mirrors,Electric side mirror,Fog Lights,Heated Seats,Keyless Entry,Leather Seats,Massage Seats,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Power Windows,Premium Audio,Rear Entertainment,Remote Start,Reverse Camera,Roof Rail,Third Row Seats,Tow Hitch,USB Port',
+)
+16.10.2023 10:46:18 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Blind Spot Monitor,Bluetooth,CD player,Cruise Control,Electric Folding Mirrors,Electric side mirror,Fog Lights,Heated Seats,Keyless Entry,Leather Seats,Massage Seats,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Power Windows,Premium Audio,Rear Entertainment,Remote Start,Reverse Camera,Roof Rail,Third Row Seats,Tow Hitch,USB Port',
+)
+16.10.2023 10:55:11 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Blind Spot Monitor,Bluetooth,CD player,Cruise Control,DVD System,Electric Folding Mirrors,Electric side mirror,Fog Lights,Heated Seats,Keyless Entry,Leather Seats,Massage Seats,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Power Windows,Premium Audio,Rear Entertainment,Remote Start,Reverse Camera,Roof Rail,Third Row Seats,Tow Hitch,USB Port',
+)
+18.10.2023 10:49:23 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS',
+)
+18.10.2023 10:52:04 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS',
+)
+18.10.2023 10:53:26 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting',
+)
+20.10.2023 15:46:15 - array (
+  0 => 'A/C: Rear,A/C: Front,ABS,Alloy wheels,Ambient Lighting,AM/FM Stereo,Blind Spot Monitor,CD player,Electric Folding Mirrors,Electric side mirror,Memory Seats,Reverse Camera',
+)
+20.10.2023 17:46:44 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Blind Spot Monitor,CD player,Electric Folding Mirrors,Electric side mirror,Memory Seats,Reverse Camera,Leather Seats,Lane Keeping Assist,Heated Seats,Running Light,USB Port',
+)
+30.10.2023 17:45:32 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Bluetooth,CD player,Cruise Control,Leather Seats,Panoramic roof,Parking sensors,Power Seats,Premium Audio',
+)
+30.10.2023 18:25:25 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Bluetooth,CD player,Fog Lights,Leather Seats,Reverse Camera,Tow Hitch',
+)
+30.10.2023 20:04:50 - array (
+  0 => 'A/C: Front,ABS,Alloy wheels,AM/FM Stereo,Bluetooth,CD player,Cruise Control,Fog Lights,Reverse Camera,Sunroof,Running Light,Wireless Charging Pad',
+)
+30.10.2023 20:16:48 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Bluetooth,CD player,Cruise Control,Fog Lights,Leather Seats,Sunroof,Tow Hitch',
+)
+30.10.2023 20:23:18 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Bluetooth,CD player,Cruise Control,Fog Lights,Leather Seats,Sunroof,Tow Hitch',
+)
+31.10.2023 13:42:53 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Blind Spot Monitor,Bluetooth,CD player,Cruise Control,Electric Folding Mirrors,Electric side mirror,Heated Seats,Keyless Entry,Lane Keeping Assist,Leather Seats,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Power Windows,Premium Audio,Running Light,USB Port,Wireless Charging Pad',
+)
+31.10.2023 13:45:37 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Blind Spot Monitor,Bluetooth,CD player,Cruise Control,Electric Folding Mirrors,Electric side mirror,Heated Seats,Keyless Entry,Lane Keeping Assist,Leather Seats,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Power Windows,Premium Audio,Running Light,USB Port,Wireless Charging Pad',
+)
+31.10.2023 14:19:17 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Apple Car Play,Blind Spot Monitor,Bluetooth,CD player,Cruise Control,Electric Folding Mirrors,Electric side mirror,Fog Lights,Heads Up Display (HUD),Heated Seats,Keyless Entry,Lane Keeping Assist,Massage Seats,Leather Seats,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Power Windows,Rear Entertainment,Premium Audio,Running Light,Third Row Seats,USB Port,Wireless Charging Pad,Tow Hitch',
+)
+31.10.2023 14:30:52 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Apple Car Play,Blind Spot Monitor,Bluetooth,CD player,Electric Folding Mirrors,Electric side mirror,Heated Seats,Keyless Entry,Lane Keeping Assist,Leather Seats,Massage Seats,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Power Windows,Premium Audio,Running Light,Wireless Charging Pad',
+)
+31.10.2023 14:41:25 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Apple Car Play,Blind Spot Monitor,Bucket Seats,Bluetooth,Cruise Control,Electric Folding Mirrors,Electric side mirror,Heated Seats,Leather Seats,Keyless Entry,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Running Light,Wireless Charging Pad',
+)
+31.10.2023 14:49:32 - array (
+  0 => '360 Camera,A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Apple Car Play,Blind Spot Monitor,Bluetooth,Bucket Seats,Cruise Control,Electric Folding Mirrors,Electric side mirror,Heated Seats,Keyless Entry,Leather Seats,Memory Seats,Navigation,Panoramic roof,Park Assist Pilot,Parking sensors,Power Locks,Power Seats,Running Light,Wireless Charging Pad',
+)
+09.11.2023 21:57:43 - array (
+  0 => 'a-c-front',
+  1 => 'a-c-rear',
+  2 => 'lane-keeping-assist',
+)
+09.11.2023 22:14:59 - array (
+  0 => 'alloy-wheels',
+  1 => 'wireless-charging-pad',
+  2 => 'usb-port',
+)
+09.11.2023 22:32:51 - array (
+  0 => '360-camera',
+  1 => 'a-c-front',
+  2 => 'a-c-rear',
+  3 => 'abs',
+)
+09.11.2023 22:35:00 - array (
+  0 => 'a-c-front',
+  1 => '360-camera',
+  2 => 'a-c-rear',
+  3 => 'abs',
+  4 => 'alloy-wheels',
+  5 => 'am-fm-stereo',
+  6 => 'ambient-lighting',
+)
+09.11.2023 22:45:24 - array (
+  0 => '360-camera',
+  1 => 'a-c-front',
+)
+11.11.2023 23:09:37 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Blind Spot Monitor,Bluetooth,CD player,Cruise Control,Electric Folding Mirrors,Electric side mirror,Fog Lights,Heated Seats,Keyless Entry,Memory Seats,Panoramic roof,Parking sensors,Park Assist Pilot,Roof Rail,Reverse Camera,Premium Audio,Power Seats,Power Locks,Power Windows,Remote Start,USB Port,Tracker,Tow Package,Third Row Seats',
+)
+12.11.2023 19:27:12 - array (
+  0 => 'A/C: Front,A/C: Rear,ABS,Alloy wheels,AM/FM Stereo,Ambient Lighting,Blind Spot Monitor,Cruise Control,Fog Lights,Heated Seats,Parking sensors,Park Assist Pilot,Panoramic roof,Reverse Camera,Power Windows,Power Seats,Power Locks,Premium Audio,Remote Start,Roof Rail,Third Row Seats,Tow Package,USB Port',
+)
+12.11.2023 19:43:19 - array (
+  0 => '360-camera',
+  1 => 'a-c-front',
+  2 => 'a-c-rear',
+  3 => 'abs',
+  4 => 'alloy-wheels',
+  5 => 'am-fm-stereo',
+)
+12.11.2023 21:39:47 - array (
+  0 => '360-camera',
+  1 => 'a-c-front',
+  2 => 'a-c-rear',
+  3 => 'abs',
+  4 => 'am-fm-stereo',
+  5 => 'alloy-wheels',
+  6 => 'ambient-lighting',
+)
+12.11.2023 23:22:28 - array (
+  0 => 'A/C: Front',
+  1 => '360 Camera',
+  2 => 'A/C: Rear',
+  3 => 'ABS',
+  4 => 'Alloy wheels',
+  5 => 'AM/FM Stereo',
+)
+12.11.2023 23:28:10 - array (
+  0 => '360 Camera',
+  1 => 'A/C: Front',
+  2 => 'A/C: Rear',
+  3 => 'Alloy wheels',
+  4 => 'ABS',
+  5 => 'AM/FM Stereo',
+)
+12.11.2023 23:36:30 - array (
+  0 => '360 Camera',
+  1 => 'A/C: Front',
+  2 => 'A/C: Rear',
+  3 => 'ABS',
+)
+13.11.2023 09:17:48 - array (
+  0 => 'Alloy wheels',
+  1 => 'ABS',
+)
+13.11.2023 09:30:20 - array (
+  0 => 'Alloy wheels',
+  1 => '360 Camera',
+  2 => 'A/C: Front',
+  3 => 'A/C: Rear',
+  4 => 'ABS',
+  5 => 'AM/FM Stereo',
+  6 => 'Ambient Lighting',
+)
+14.11.2023 19:49:23 - array (
+  0 => '360 Camera',
+)
+14.11.2023 19:54:46 - array (
+  0 => '360 Camera',
+)
+14.11.2023 23:44:37 - array (
+  0 => '360 Camera',
+  1 => 'A/C: Front',
+  2 => 'A/C: Rear',
+  3 => 'ABS',
+  4 => 'Alloy wheels',
+  5 => 'AM/FM Stereo',
+  6 => 'Ambient Lighting',
+)
+15.11.2023 00:15:42 - array (
+  0 => '360 Camera',
+  1 => 'A/C: Front',
+  2 => 'A/C: Rear',
+  3 => 'ABS',
+  4 => 'Alloy wheels',
+  5 => 'AM/FM Stereo',
+  6 => 'Ambient Lighting',
+)
+15.11.2023 00:17:02 - array (
+  0 => '360 Camera',
+  1 => 'A/C: Front',
+  2 => 'A/C: Rear',
+  3 => 'ABS',
+  4 => 'Alloy wheels',
+  5 => 'AM/FM Stereo',
+  6 => 'Ambient Lighting',
+)
+15.11.2023 00:17:32 - array (
+  0 => '360 Camera',
+  1 => 'A/C: Front',
+  2 => 'A/C: Rear',
+  3 => 'ABS',
+  4 => 'Alloy wheels',
+  5 => 'AM/FM Stereo',
+  6 => 'Ambient Lighting',
+)
+15.11.2023 03:18:48 - array (
+  0 => 'Alloy wheels',
+  1 => 'AM/FM Stereo',
+)
